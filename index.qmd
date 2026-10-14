@@ -15,7 +15,7 @@ about:
       text: E-mail
       href: mailto:sylvain.schmitt@cirad.fr
     - text: "{{< fa brands github >}} GitHub"
-      href: https://github.com
+      href: https://github.com/HidrAmazonia
       target: _blank
 
 listing:

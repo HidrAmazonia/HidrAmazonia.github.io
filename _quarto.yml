@@ -31,7 +31,7 @@ website:
 
     right: 
       - icon: github
-        href: https://github.com/HidrAmazonia/HidrAmazonia.github.io
+        href: https://github.com/HidrAmazonia
         target: _blank
   
   page-navigation: true
@@ -41,7 +41,7 @@ website:
     center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Sylvain Schmitt](https://sylvainschmitt.netlify.app/)"
     right:  
       - icon: github
-        href: https://github.com
+        href: https://github.com/HidrAmazonia
         target: _blank
       - icon: rss
         href: posts.xml
