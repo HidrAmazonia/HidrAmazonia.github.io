@@ -1,0 +1,29 @@
+---
+title: "HidrAmazônia presented at EcoFoG on 16 October"
+description: "Two conferences 'from Brasil' at UMR EcoFoG (Campus agronomique, Kourou), including a presentation of the HidrAmazônia project"
+# author: "News"
+date: "2026-10-14"
+categories: [news]
+image: https://umr-ecofog.cirad.fr/var/umr_ecofog/storage/images/_aliases/wmax320/3/8/3/5/45383-1-fre-FR/162245667b23-flavia.jpg
+#css: /custom.css
+#draft: true
+---
+
+## Summary
+
+On **16 October 2026**, the [UMR EcoFoG](https://umr-ecofog.cirad.fr/) hosts two scientific conferences "from Brasil" by **Flavia Costa** and **Alberto Vicentini**: *HydrAmazonia Project* and *Beyond Species Names*. This is a good opportunity to discover **HidrAmazônia**, our Franco-Brazilian project on how Amazonian forests cope with droughts and floods.
+
+## Practical information
+
+- **Date:** Friday 16 October 2026, 11:00 (Cayenne time)
+- **Place:** Campus agronomique, Silvolab room
+- **Format:** in person and online
+- **Programme:** *HydrAmazonia Project* & *Beyond Species Names*
+- **Speakers:** Flavia Costa and Alberto Vicentini
+
+More details are available on the [EcoFoG event page](https://umr-ecofog.cirad.fr/science-pour-tous/animations-scientifiques/deux-presentations-16-10-2026).
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
+

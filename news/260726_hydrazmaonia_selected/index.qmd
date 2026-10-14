@@ -1,7 +1,7 @@
 ---
 title: "HidrAmazônia selected by the ANR"
 description: "Our project HidrAmazônia has been selected under the ANR's 2026 Generic Call for Proposals (AAPG 2026)"
-author: "News"
+# author: "News"
 date: "2026-07-26"
 categories: [news]
 image: https://anr.fr/typo3conf/ext/anr_skin/Resources/Public/assets/img/anr-logo-2021-complet.png

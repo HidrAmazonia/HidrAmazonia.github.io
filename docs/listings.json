@@ -2,18 +2,20 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/261014_flavia_ecofog/index.html",
+      "/news/260726_hydrazmaonia_selected/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/news/261014_flavia_ecofog/index.html",
       "/news/260726_hydrazmaonia_selected/index.html"
     ]
   },
   {
     "listing": "/publications.html",
     "items": []
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/news/260726_hydrazmaonia_selected/index.html"
-    ]
   },
   {
     "listing": "/people.html",
